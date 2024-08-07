@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  user-select: none; /* For modern browsers */
+  -webkit-user-select: none; /* For WebKit browsers */
+  -moz-user-select: none; /* For Firefox */
+  -ms-user-select: none; /* For older IE versions */
+  -webkit-user-drag: none; /* For WebKit browsers */
+}
