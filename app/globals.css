@@ -9,3 +9,7 @@ body {
   -ms-user-select: none; /* For older IE versions */
   -webkit-user-drag: none; /* For WebKit browsers */
 }
+
+i {
+  cursor: pointer;
+}

@@ -51,8 +51,8 @@ const config: Config = {
       "nord",
       "sunset",
     ],
-    darkTheme: "cyberpunk",
-    lightTheme: "bumblebee",
+    darkTheme: "bumblee",
+    lightTheme: "emrald",
   },
   plugins: [daisyui],
 };
